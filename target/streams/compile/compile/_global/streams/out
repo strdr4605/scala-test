@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E100] Syntax Error: /Users/strdr4605/P/Scala/hello-world/src/main/scala/Main.scala:13:41 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m    [33mval[0m [36mactor[0m = actorSystem.actorOf(Props[[35mMy_Actor[0m],[31m"Actor"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                    [31m^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |            [33mmethod[0m [35mapply[0m in [33mobject[0m [35mProps[0m must be called with () argument[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

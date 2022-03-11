@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/hello-world_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	My_Actor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/classes/My_Actor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/classes/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	My_Actor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/classes/My_Actor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/classes/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	My_Actor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/classes/My_Actor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/strdr4605/P/Scala/hello-world/target/scala-3.1.1/classes/MainApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
